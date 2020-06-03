@@ -1,3 +1,6 @@
-#BasicGitCommands
+# Basic Git Commands
 
-This includes basic git commands
+Git Command | Desription
+------------ | -------------
+touch | Add any empty file to the repository
+git init | Initialized the repository
