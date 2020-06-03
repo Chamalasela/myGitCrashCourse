@@ -1,3 +1,3 @@
-#Basic Git Commands in html
+#BasicGitCommands
 
 This includes basic git commands
